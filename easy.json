@@ -1,0 +1,22 @@
+{
+	"vanilla_ice_cream": {
+		"name": "Home Made Vanilla",
+		"class": "Heavy Cream",
+		"flavor": "vanilla"
+	},
+	"chocolate_ice_cream": {
+		"name": "Double Chocolate Yum yum",
+		"class": "Heavy Cream",
+		"flavor": "chocolate"
+	},
+	"strawberry_ice_cream": {
+		"name": "Shortcake blood",
+		"class": "froyo",
+		"flavor": "strawberry"
+	},
+	"grapefruit_ice_cream": {
+		"name": "Healthy Brain",
+		"class": "sorbet",
+		"flavor": "grapefruit"
+	}
+}

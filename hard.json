@@ -1,0 +1,30 @@
+{
+	"instances": [{
+			"name": "foo",
+			"class": "lang",
+			"flavor": {
+				"flavor": "vanilla"
+			}
+		},
+		[{
+				"name": "foo",
+				"class": "bool",
+				"flavor": "chocolate"
+			},
+			{
+				"name": "bar",
+				"flavor": "peaches"
+			}
+		]
+	],
+	"instances2": {
+		"name": "foo",
+		"class": "bool",
+		"flavor": ["strawberry", "kiwi", "banana"]
+
+	},
+	"instance4": {},
+	"interest": null,
+	"instance": "herlooadf",
+	"instands": 134123413
+}

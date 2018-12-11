@@ -1,0 +1,24 @@
+ {
+ 	"instances": [{
+ 			"name": "foo",
+ 			"class": "lang",
+ 			"flavor": {
+ 				"flavor": "vanilla"
+ 			}
+ 		},
+ 		{
+ 			"name": "foo",
+ 			"class": "bool",
+ 			"flavor": "chocolate"
+ 		}
+ 	],
+ 	"something": null,
+ 	"numba": 134,
+ 	"instant": [
+ 		[],
+ 		[],
+ 		[],
+ 		[]
+ 	],
+ 	"instances2": ""
+ }
